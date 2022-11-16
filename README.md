@@ -1,6 +1,6 @@
-# 0x1D C - Binary trees 🖋️
+# 0x1D C - Binary trees 
 
-## Tasks :heavy_heart_exclamation
+## Tasks ❣️
 
 0. Function that creates a binary tree node
 1. Function that inserts a node as the left-child of another node
