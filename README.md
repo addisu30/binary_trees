@@ -46,7 +46,7 @@
 41. What are the average time complexities of those operations on a Binary Heap
 
 
-## Additional info :construction:
+## Additional info 👷
 ### Resources
 
 - GLIBC 2.24
